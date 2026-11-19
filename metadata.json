@@ -1,0 +1,6 @@
+{
+  "name": "RAMPAGE DIGIT ANALYZER",
+  "description": "Professional Deriv synthetic indices digit frequency analyzer and strategy execution terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.bak
+*.bak-*
+*.before-*
+*.tmp
+*.log
+.DS_Store
+backups/
+*.backup-*
+*.pre-oauth-backup
+*.settlement-backup
+*.oauth-backup
+.aistudio/
